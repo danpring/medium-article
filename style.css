@@ -17,14 +17,14 @@ h2 {
 a {
   font-family: 'Poppins', sans-serif;
   text-decoration: none;
-  background-image: linear-gradient(to bottom, #eeeeee, #eeeeee);}
+  background-image: linear-gradient(to bottom, #eeeeee, #eeeeee);
 }
 
 /* Custom design */
 .banner {
-  background-image: url("https://source.unsplash.com/random/1000x500");
+  background-image: url("https://source.unsplash.com/Xft-JdC-Jbc/1000x500");
   background-size: cover;
-  color: white;
+  background-color: red;
   padding: 120px 0;
 }
 .banner h1 {
